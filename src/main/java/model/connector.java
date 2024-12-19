@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author alejandro el magnifico mas guay
+ * @author alejandro el magnifico
  */
 public class connector {
     
